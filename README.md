@@ -12,4 +12,4 @@ c) Assignment 3 - Apache beam features
 
 colab link: https://colab.research.google.com/drive/1cc9VG4_y_I8xyyfqpQqvYpl61RPgJ526?usp=sharing
 
-youtube link: 
+youtube link: https://youtu.be/qUb8EgjomNc
